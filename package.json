@@ -1,0 +1,13 @@
+{
+  "name": "@tirio/test-publishjs",
+  "version": "0.1.2",
+  "description": "",
+  "main": "entry.ts",
+  "types": "entry.ts",
+  "author": "triton <rayntriton@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayntriton/test-publishjs"
+  }
+}
